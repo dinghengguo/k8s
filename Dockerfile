@@ -1,2 +1,2 @@
-FROM debian:bullseye-slim
+FROM nginx:1.22.0
 MAINTAINER dhg666@163.com
