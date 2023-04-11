@@ -1,0 +1,1 @@
+FROM calico/apiserver:v3.24.5
